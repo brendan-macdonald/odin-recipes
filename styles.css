@@ -1,0 +1,31 @@
+body {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #EEEEEE;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+a {
+    margin: 10px;
+    font-size: 25px;
+    
+}
+
+.container li {
+    font-family: 'Courier New', Courier, monospace; 
+    list-style: none;
+    margin: 10px;
+}
